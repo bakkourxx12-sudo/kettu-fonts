@@ -1,0 +1,24 @@
+{
+  "spec": 1,
+  "name": "Amiri",
+  "previewText": "أميري - Arabic Naskh Typeface",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Italic.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Italic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-BoldItalic.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-BoldItalic.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Italic.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf",
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Bold.ttf"
+  }
+}
