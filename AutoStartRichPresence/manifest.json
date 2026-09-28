@@ -1,7 +1,10 @@
 {
   "name": "AutoStartRichPresence",
   "description": "Automatically starts and maintains a customizable Rich Presence on Kettu.",
-  "author": "bakkourxx12-sudo",
-  "version": "1.0.0",
-  "license": "MIT"
+  "authors": [
+    {
+      "name": "bakkourxx12-sudo"
+    }
+  ],
+  "main": "index.js"
 }
