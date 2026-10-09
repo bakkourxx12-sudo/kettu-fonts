@@ -1,0 +1,399 @@
+{
+  "name": "Moonlit Coast",
+  "description": "Original blue-black moonlit coast theme: translucent night surfaces, silver text and tidal-blue accents.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "L7N"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#8EC9FF30",
+      "#315E8330"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#477DA8",
+      "#315E83"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#477DA820",
+      "#315E831A"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#477DA840",
+      "#315E8330"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#DCE7F208",
+      "#20374B0A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#172A3CE8",
+      "#DCE7F2"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#20374BF0",
+      "#C7D8E8"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#DCE7F20A",
+      "#20374B0A"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#20374BF0",
+      "#C7D8E8"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#080F18E0",
+      "#F0F6FC"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#101E2DF2",
+      "#E2EBF5"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#080F18E0",
+      "#F0F6FC"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0E1B29EC",
+      "#E2EBF5"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#050A10ED",
+      "#DCE7F2"
+    ],
+    "BADGE_BRAND_BG": [
+      "#477DA8",
+      "#315E83"
+    ],
+    "BADGE_BRAND_TEXT": [
+      "#F0F6FC",
+      "#FFFFFF"
+    ],
+    "BORDER_FAINT": [
+      "#79B8F238",
+      "#477DA830"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#080F18DA",
+      "#F0F6FC"
+    ],
+    "CARD_PRIMARY_PRESSED_BG": [
+      "#111F2EEA",
+      "#DCE7F2"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#101E2DF0",
+      "#DCE7F2"
+    ],
+    "CHANNEL_ICON": [
+      "#8EC9FF",
+      "#315E83"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A8C9E8",
+      "#315E83"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0B1521E8",
+      "#DCE7F2"
+    ],
+    "CHAT_BACKGROUND": [
+      "#080F18D8",
+      "#F0F6FC"
+    ],
+    "EMBED_BACKGROUND": [
+      "#0E1B29E8",
+      "#E2EBF5"
+    ],
+    "HEADER_PRIMARY": [
+      "#F0F6FC",
+      "#0B1521"
+    ],
+    "HEADER_SECONDARY": [
+      "#AABBD0",
+      "#53677A"
+    ],
+    "INPUT_BACKGROUND": [
+      "#0A1521E8",
+      "#DCE7F2"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#0A1521E8",
+      "#DCE7F2"
+    ],
+    "INPUT_BORDER_ACTIVE": [
+      "#79B8F2",
+      "#315E83"
+    ],
+    "INPUT_FOCUSED_BORDER": [
+      "#79B8F2",
+      "#315E83"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#8EC9FF",
+      "#315E83"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#C4E2FF",
+      "#244967"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#53677A",
+      "#8295A8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#AABBD0",
+      "#315E83"
+    ],
+    "TEXT_DANGER": [
+      "#F08A93",
+      "#B83D4A"
+    ],
+    "TEXT_LINK": [
+      "#8EC9FF",
+      "#315E83"
+    ],
+    "TEXT_NORMAL": [
+      "#DCE7F2",
+      "#152536"
+    ],
+    "TEXT_MUTED": [
+      "#8295A8",
+      "#53677A"
+    ],
+    "TEXT_PRIMARY": [
+      "#F0F6FC",
+      "#152536"
+    ],
+    "TEXT_WARNING": [
+      "#E5B567",
+      "#94631F"
+    ],
+    "TEXT_POSITIVE": [
+      "#75C9A5",
+      "#247C60"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#79B8F2",
+      "#315E83"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#080F18DA",
+      "#F0F6FC"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0E1B29EC",
+      "#DCE7F2"
+    ],
+    "BG_MOD_FAINT": [
+      "#111F2EE8",
+      "#DCE7F2"
+    ],
+    "BG_MOD_STRONG": [
+      "#0B1521F0",
+      "#E2EBF5"
+    ],
+    "BG_MOD_SUBTLE": [
+      "#8EC9FF12",
+      "#20374B10"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#0E1B29ED",
+      "#E2EBF5"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#080F18E8",
+      "#F0F6FC"
+    ],
+    "BG_BACKDROP": [
+      "#020710AA",
+      "#101E2DAA"
+    ],
+    "BG_BRAND": [
+      "#477DA8",
+      "#315E83"
+    ],
+    "PANEL_BG": [
+      "#080F18DA",
+      "#F0F6FC"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#080F18E8",
+      "#F0F6FC"
+    ],
+    "TAB_BAR_BACKGROUND": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#0E1B29E8",
+      "#E2EBF5"
+    ],
+    "ALERT_BG": [
+      "#101E2DF2",
+      "#DCE7F2"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#020710B8",
+      "#101E2DB8"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#101E2DF0",
+      "#DCE7F2"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#172A3CE8",
+      "#DCE7F2"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#20374BF0",
+      "#C7D8E8"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#477DA8",
+      "#315E83"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#315E83",
+      "#244967"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#F0F6FC",
+      "#FFFFFF"
+    ],
+    "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
+      "#34202A",
+      "#F1DFE2"
+    ],
+    "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
+      "#FFDADE",
+      "#5B202B"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#A8C9E8",
+      "#315E83"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0B1521E8",
+      "#DCE7F2"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#79B8F2",
+      "#315E83"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#080F18D8",
+      "#F0F6FC"
+    ],
+    "DIVIDER_STRONG": [
+      "#2A4158",
+      "#AABBD0"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#203040",
+      "#C7D8E8"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#0B1521E8",
+      "#E2EBF5"
+    ],
+    "STATUS_OFFLINE": [
+      "#53677A",
+      "#8295A8"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#102B2A",
+      "#D9F0E6"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#75C9A5",
+      "#247C60"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#302718",
+      "#F5E9CF"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#E5B567",
+      "#94631F"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#302027",
+      "#F4DFE3"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#8EC9FF40",
+      "#315E8340"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#8EC9FF60",
+      "#315E8360"
+    ],
+    "CHAT_MENTIONS_BACKGROUND": [
+      "#477DA825",
+      "#315E8318"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F0F6FC",
+    "PRIMARY_200": "#DCE7F2",
+    "PRIMARY_300": "#AABBD0",
+    "PRIMARY_360": "#8295A8",
+    "PRIMARY_400": "#53677A",
+    "PRIMARY_600": "#172A3C",
+    "PRIMARY_630": "#101E2D",
+    "BRAND_300": "#8EC9FF",
+    "BRAND_360": "#79B8F2",
+    "BRAND_500": "#477DA8",
+    "BRAND_560": "#315E83",
+    "BRAND_600": "#244967",
+    "RED_360": "#F08A93",
+    "RED_400": "#C65360",
+    "RED_430": "#A83B49",
+    "ORANGE_360": "#E5B567",
+    "YELLOW_400": "#E5C46B"
+  },
+  "background": {
+    "blur": 3,
+    "url": "https://images.unsplash.com/photo-1784651169360-ad1f1b0b81a0?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+    "alpha": 0.86,
+    "color": "#080F18"
+  },
+  "plus": {
+    "version": "0",
+    "mentionLineColor": "#79B8F2",
+    "customOverlays": true,
+    "icons": {
+      "StatusOnline": "#75C9A5",
+      "StatusIdle": "#E5B567",
+      "StatusDND": "#F08A93",
+      "StatusOffline": "#53677A",
+      "ic_send": "#F0F6FC",
+      "ic_send__overlay": "#79B8F2",
+      "search": "#8EC9FF",
+      "SettingsIcon": "#8EC9FF",
+      "PencilIcon": "#8EC9FF",
+      "MoreHorizontalIcon": "#8EC9FF"
+    }
+  },
+  "spec": 2
+}
